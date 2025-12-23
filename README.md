@@ -59,17 +59,26 @@ These results suggest that social media behavior patterns can strongly indicate 
 ⸻
 
 Tools & Technologies
+
 	•	Python
+	
 	•	pandas
+	
 	•	numpy
+	
 	•	scikit-learn
+	
 	•	Jupyter Notebook
 
 ⸻
 
 How to Run the Project
 	1.	Clone the repository:
+
   git clone https://github.com/your-username/your-repo-name.git
+  
   2. Open the notebook:
+  
   jupyter notebook Final_Project_ML_ClarissaDominguez.ipynb
+  
   3. Run the cells in order.
